@@ -9,7 +9,7 @@ import { colorGreyLight, colorBlackDark } from '../ui/colores';
 
 
 const Container = styled.div`
-  position: relative;
+  position: relative;   
   width: 100%;
   height: 90vh;
   
