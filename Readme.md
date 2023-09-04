@@ -1,9 +1,7 @@
-Challenge React curso Front End React Alura Latam
+Challenge React curso Front End React 
 
 
--Link a video demo del proyecto:https: https://www.youtube.com/watch?v=U6bFlJegzfo
 
--Link al proyecto alojado en vercel: https://aluraflix-phi-six.vercel.app/
 
 
 
